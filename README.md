@@ -1,4 +1,4 @@
 LSM
 ===
 
-Hello world
+$ mkdir ~/Hello-world
